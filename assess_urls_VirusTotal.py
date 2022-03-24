@@ -5,23 +5,6 @@ import json, assessURL, encodeURL #, requests
 url_list = []
 url_json_data_list = []
 
-
-# --------------------IMPORTANT------------------------
-# Using this script requires an API key from VirusTotal
-# -----------------------------------------------------
-#
-# Insert your private API key into key.txt file, on the say directory as this .py script file.
-
-# with open("key.txt", "r") as rawd:
-#     api_key = rawd.readline()
-
-
-# vt_url = "https://www.virustotal.com/api/v3/urls/"
-# headers = {
-#     "Accept": "application/json",
-#     "x-apikey": api_key
-# }
-
 # --------------------IMPORTANT------------------------
 # Using this script requires an A list of URL's to scan
 # -----------------------------------------------------
