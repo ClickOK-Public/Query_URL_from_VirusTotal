@@ -19,6 +19,6 @@ These scripts can be run individually from command line.
 The "main" script is:
 - assess_urls_VirusTotal.py
 
-This script imports the two modules mentioned earlier, and utilize them to create a output files:
+This script imports the two modules mentioned earlier, and utilize them to create output files:
 - URL_query_result.json
 - URL_query_result.txt
